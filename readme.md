@@ -25,9 +25,9 @@ and SCSS
 - use semantic tags. `<header>`, `<nav>`, `<main>`
 - add class `is-active` to the first link (`Apple`) in navigation
 - remove old `data-qa` attributes
-- add `data-qa="nav-hover"` (not just `hover`) to the 4th nav link for testing (`Ноутбуки и компьютеры`)
+- add `data-qa="nav-hover"` (not just `hover`) to the 4th nav link for testing (`Laptops & computers`)
 - add `data-qa="card"` to the first card
-- add `data-qa="card-hover"` (not just `hover`) to the link `Купить` inside the first card
+- add `data-qa="card-hover"` (not just `hover`) to the link `Buy` inside the first card
 ---
 --> [CHECKLIST](https://github.com/mate-academy/layout_catalog/blob/master/checklist.md)
 ---

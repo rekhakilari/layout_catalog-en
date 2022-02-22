@@ -7,7 +7,7 @@ const { basicScenario } = backstop;
 const basic = {
   ...basicScenario,
   label: 'Elementary test',
-  referenceUrl: basicScenario.referenceUrl + '/catalog/',
+  referenceUrl: basicScenario.referenceUrl + '/catalog-en/',
 };
 
 const config = {
